@@ -1,0 +1,118 @@
+{
+ "royal_ext1": [
+  1800,
+  1170
+ ],
+ "royal_ext2": [
+  1400,
+  981
+ ],
+ "royal_int1": [
+  1476,
+  960
+ ],
+ "royal_int2": [
+  1400,
+  889
+ ],
+ "royal_int3": [
+  1400,
+  681
+ ],
+ "grand_ext1": [
+  1800,
+  1176
+ ],
+ "grand_ext2": [
+  1400,
+  989
+ ],
+ "grand_int1": [
+  1354,
+  880
+ ],
+ "grand_int2": [
+  1400,
+  805
+ ],
+ "grand_int3": [
+  1400,
+  780
+ ],
+ "deluxe_ext1": [
+  1800,
+  1176
+ ],
+ "deluxe_ext2": [
+  1400,
+  982
+ ],
+ "deluxe_int1": [
+  1354,
+  880
+ ],
+ "deluxe_int2": [
+  1400,
+  803
+ ],
+ "deluxe_int3": [
+  1400,
+  766
+ ],
+ "team_ceo": [
+  487,
+  370
+ ],
+ "team_cofounder": [
+  489,
+  371
+ ],
+ "team_advisor_asia": [
+  487,
+  368
+ ],
+ "team_advisor_sustainability": [
+  491,
+  372
+ ],
+ "aerial_islands": [
+  2200,
+  926
+ ],
+ "aerial_rocks": [
+  1600,
+  1138
+ ],
+ "aerial_island": [
+  1800,
+  1073
+ ],
+ "map_location": [
+  1760,
+  993
+ ],
+ "plan_royal_ground": [
+  1400,
+  965
+ ],
+ "plan_royal_first": [
+  1400,
+  1251
+ ],
+ "plan_grand_ground": [
+  1400,
+  673
+ ],
+ "plan_grand_first": [
+  1400,
+  961
+ ],
+ "plan_deluxe_ground": [
+  1223,
+  898
+ ],
+ "plan_deluxe_first": [
+  1255,
+  1204
+ ]
+}

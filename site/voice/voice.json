@@ -1,0 +1,104 @@
+{
+ "lang": "en",
+ "voice": "bm_george",
+ "engine": "kokoro",
+ "stops": {
+  "seaplane": {
+   "file": "site/voice/seaplane.mp3",
+   "dur": 11.93,
+   "text": "Welcome to the Anambas islands. The last minutes are the best part of the journey: low over the reef, down onto the lagoon, and a short taxi to the jetty. You step out at the arrival pavilion."
+  },
+  "arrival": {
+   "file": "site/voice/arrival.mp3",
+   "dur": 16.86,
+   "text": "Tenggeran and Tenak are two small islands in the Anambas archipelago, out in the South China Sea. Scheduled flights run from Batam, right beside Singapore, to Letung, and a boat takes you the last stretch. Private charters, by air or by sea, can be arranged."
+  },
+  "islands": {
+   "file": "site/voice/islands.mp3",
+   "dur": 14.32,
+   "text": "The resort covers both islands: six hectares of forest, pale rock and coral sand. Tenggeran holds the ten residences and the clubhouse. Tenak holds the guest villas and the beach bar, and a boat crosses between them all day."
+  },
+  "residences": {
+   "file": "site/voice/residences.mp3",
+   "dur": 13.85,
+   "text": "There are ten residences: three Royal, three Grand and four Deluxe. Each one has its own pool, hot tub and decks, and its own piece of shore: a beach, the rocks, or the forest. Choose any number on the island to take a closer look."
+  },
+  "reef": {
+   "file": "site/voice/reef.mp3",
+   "dur": 13.09,
+   "text": "Now, under the surface. The lagoon east of Tenggeran is a coral garden, just a few strokes from the beach. Further out lie Kataoka Reef, Malang Biru and Tokong Reef, where manta rays and whale sharks pass by."
+  },
+  "day": {
+   "file": "site/voice/day.mp3",
+   "dur": 15.13,
+   "text": "The day is yours. Fine dining at the clubhouse, drinks and finger food on its beach. Breakfast and calm evenings at the beach bar on Tenak. A spa pavilion, yoga on the hilltop, a dive school, a motor yacht, and a concierge for everything else."
+  },
+  "runs": {
+   "file": "site/voice/runs.mp3",
+   "dur": 16.69,
+   "text": "The resort is designed to stand on its own. Power comes from the sun, stored in batteries. Fresh water is made from the sea, and rain and grey water are collected and used again. No single-use plastic, a kitchen garden, and a team hired and trained from the neighbouring islands."
+  },
+  "owning": {
+   "file": "site/voice/owning.mp3",
+   "dur": 8.01,
+   "text": "Sixty days a year are yours. For the rest of the year, The Pavilions hosts guests in your residence, runs it, and looks after it."
+  },
+  "people": {
+   "file": "site/voice/people.mp3",
+   "dur": 11.61,
+   "text": "Frontier Experiences finds remote, beautiful land and prepares it with care. The Pavilions Hotels and Resorts will run the resort. If you would like to know more, we would love to hear from you."
+  }
+ },
+ "residences": {
+  "1": {
+   "file": "site/voice/res1.mp3",
+   "dur": 14.64,
+   "text": "Residence 1. Royal residence, on a beach. The largest: three A-frames in a row, two bedroom suites upstairs. A private beach, with the wide lagoon in front. Choose a view to see it from the water, from above, from the terrace, or inside."
+  },
+  "2": {
+   "file": "site/voice/res2.mp3",
+   "dur": 13.68,
+   "text": "Residence 2. Grand residence, on a beach. Two bedroom suites over a long, open ground floor. Its own beach and jetty, and a reef straight ahead. Choose a view to see it from the water, from above, from the terrace, or inside."
+  },
+  "3": {
+   "file": "site/voice/res3.mp3",
+   "dur": 13.75,
+   "text": "Residence 3. Deluxe residence, on the rocks. One bedroom suite and the widest decks of the three. Built on the rocks, with a private jetty over coral. Choose a view to see it from the water, from above, from the terrace, or inside."
+  },
+  "4": {
+   "file": "site/voice/res4.mp3",
+   "dur": 14.26,
+   "text": "Residence 4. Deluxe residence, in the forest. One bedroom suite and the widest decks of the three. Set back in the forest: the most secluded of the ten. Choose a view to see it from the water, from above, from the terrace, or inside."
+  },
+  "5": {
+   "file": "site/voice/res5.mp3",
+   "dur": 15.11,
+   "text": "Residence 5. Royal residence, on the rocks. The largest: three A-frames in a row, two bedroom suites upstairs. On the southern rocks, with a private jetty over coral. Choose a view to see it from the water, from above, from the terrace, or inside."
+  },
+  "6": {
+   "file": "site/voice/res6.mp3",
+   "dur": 13.9,
+   "text": "Residence 6. Deluxe residence, on the rocks. One bedroom suite and the widest decks of the three. On the southern rocks, with a private jetty over coral. Choose a view to see it from the water, from above, from the terrace, or inside."
+  },
+  "7": {
+   "file": "site/voice/res7.mp3",
+   "dur": 13.64,
+   "text": "Residence 7. Deluxe residence, on the rocks. One bedroom suite and the widest decks of the three. On the western rocks, looking out over the coral. Choose a view to see it from the water, from above, from the terrace, or inside."
+  },
+  "8": {
+   "file": "site/voice/res8.mp3",
+   "dur": 14.0,
+   "text": "Residence 8. Grand residence, on a beach. Two bedroom suites over a long, open ground floor. A private beach on the west shore, the lagoon in front. Choose a view to see it from the water, from above, from the terrace, or inside."
+  },
+  "9": {
+   "file": "site/voice/res9.mp3",
+   "dur": 14.88,
+   "text": "Residence 9. Royal residence, on a beach. The largest: three A-frames in a row, two bedroom suites upstairs. A private beach on the west shore, the lagoon in front. Choose a view to see it from the water, from above, from the terrace, or inside."
+  },
+  "10": {
+   "file": "site/voice/res10.mp3",
+   "dur": 14.47,
+   "text": "Residence 10. Grand residence, on a beach. Two bedroom suites over a long, open ground floor. A private beach beside the clubhouse, the lagoon in front. Choose a view to see it from the water, from above, from the terrace, or inside."
+  }
+ }
+}

@@ -1,0 +1,139 @@
+{
+ "id": "welcome_pavilion",
+ "name": "Welcome Pavilion \u2014 open platform under the prow roof on timber posts (owner, 2026-11-18: no walls or windows, three steps below the main jetty)",
+ "H0": 0.0,
+ "keepGeneric": false,
+ "match": [],
+ "roofs": [
+  {
+   "type": "prow",
+   "eave": 3.4,
+   "ridge": 6.0,
+   "thick": 0.4,
+   "tipUp": 1.7,
+   "saddle": 0.5,
+   "eaveUp": 0.8,
+   "hex": [
+    [
+     -6.0,
+     -3.0
+    ],
+    [
+     -7.7,
+     0
+    ],
+    [
+     -6.0,
+     3.0
+    ],
+    [
+     6.0,
+     3.0
+    ],
+    [
+     7.7,
+     0
+    ],
+    [
+     6.0,
+     -3.0
+    ]
+   ]
+  }
+ ],
+ "slabs": [
+  {
+   "poly": [
+    [
+     -6.0,
+     -2.6
+    ],
+    [
+     6.0,
+     -2.6
+    ],
+    [
+     6.0,
+     2.6
+    ],
+    [
+     -6.0,
+     2.6
+    ]
+   ],
+   "y": 0,
+   "mat": "deck",
+   "thick": 0.3,
+   "piers": false
+  }
+ ],
+ "walls": [],
+ "posts": [
+  {
+   "x": -5.6,
+   "z": -2.3,
+   "y0": -0.3,
+   "w": 0.3,
+   "mat": "timber",
+   "footing": false
+  },
+  {
+   "x": -5.6,
+   "z": 2.3,
+   "y0": -0.3,
+   "w": 0.3,
+   "mat": "timber",
+   "footing": false
+  },
+  {
+   "x": -1.2,
+   "z": -2.3,
+   "y0": -0.3,
+   "w": 0.3,
+   "mat": "timber",
+   "footing": false
+  },
+  {
+   "x": -1.2,
+   "z": 2.3,
+   "y0": -0.3,
+   "w": 0.3,
+   "mat": "timber",
+   "footing": false
+  },
+  {
+   "x": 1.2,
+   "z": -2.3,
+   "y0": -0.3,
+   "w": 0.3,
+   "mat": "timber",
+   "footing": false
+  },
+  {
+   "x": 1.2,
+   "z": 2.3,
+   "y0": -0.3,
+   "w": 0.3,
+   "mat": "timber",
+   "footing": false
+  },
+  {
+   "x": 5.6,
+   "z": -2.3,
+   "y0": -0.3,
+   "w": 0.3,
+   "mat": "timber",
+   "footing": false
+  },
+  {
+   "x": 5.6,
+   "z": 2.3,
+   "y0": -0.3,
+   "w": 0.3,
+   "mat": "timber",
+   "footing": false
+  }
+ ],
+ "railings": [],
+ "furniture": []
+}

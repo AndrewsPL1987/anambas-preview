@@ -1,0 +1,104 @@
+{
+ "lang": "es",
+ "voice": "em_alex",
+ "engine": "kokoro",
+ "stops": {
+  "seaplane": {
+   "file": "site/voice/es/seaplane.mp3",
+   "dur": 12.28,
+   "text": "Bienvenido a las islas Anambas. Los últimos minutos son lo mejor del viaje: a baja altura sobre el arrecife, el amerizaje en la laguna y un breve recorrido hasta el muelle. Desembarca en el pabellón de llegada."
+  },
+  "arrival": {
+   "file": "site/voice/es/arrival.mp3",
+   "dur": 14.94,
+   "text": "Tenggeran y Tenak son dos pequeñas islas del archipiélago de Anambas, en el mar de China Meridional. Hay vuelos regulares desde Batam, junto a Singapur, hasta Letung, y una lancha para el último tramo. Se pueden organizar vuelos y barcos privados."
+  },
+  "islands": {
+   "file": "site/voice/es/islands.mp3",
+   "dur": 13.64,
+   "text": "El resort ocupa ambas: seis hectáreas de bosque, roca clara y arena de coral. Tenggeran acoge las diez residencias y el clubhouse. Tenak acoge las villas para huéspedes y el bar de playa. Un barco cruza entre ellas todo el día."
+  },
+  "residences": {
+   "file": "site/voice/es/residences.mp3",
+   "dur": 12.66,
+   "text": "Tres Royal, tres Grand, cuatro Deluxe. Cada una tiene su piscina, su jacuzzi y sus terrazas, y su propio trozo de costa: playa, rocas o bosque. Elija cualquier número en la isla para verla de cerca."
+  },
+  "reef": {
+   "file": "site/voice/es/reef.mp3",
+   "dur": 12.92,
+   "text": "La laguna al este de Tenggeran es un jardín de coral a pocas brazadas de la playa. Más lejos están el arrecife de Kataoka, Malang Biru y el arrecife de Tokong, por donde pasan mantarrayas y tiburones ballena."
+  },
+  "day": {
+   "file": "site/voice/es/day.mp3",
+   "dur": 14.81,
+   "text": "Alta cocina en el clubhouse, bebidas y algo de picar en su playa. Desayunos y tardes tranquilas en el bar de playa de Tenak. Un pabellón de spa, yoga en lo alto de la colina, una escuela de buceo, un yate a motor y un concierge para todo lo demás."
+  },
+  "runs": {
+   "file": "site/voice/es/runs.mp3",
+   "dur": 16.44,
+   "text": "El resort está pensado para ser autosuficiente: energía del sol almacenada en baterías; agua dulce obtenida del mar; agua de lluvia y aguas grises recogidas y reutilizadas. Sin plásticos de un solo uso. Un huerto. Un equipo contratado y formado en las islas vecinas."
+  },
+  "owning": {
+   "file": "site/voice/es/owning.mp3",
+   "dur": 8.12,
+   "text": "Sesenta días al año son suyos. El resto del año, The Pavilions recibe huéspedes en su residencia, la gestiona y la mantiene."
+  },
+  "people": {
+   "file": "site/voice/es/people.mp3",
+   "dur": 8.86,
+   "text": "Frontier Experiences encuentra tierras remotas y hermosas y las prepara con cuidado. The Pavilions Hotels & Resorts gestionará el resort."
+  }
+ },
+ "residences": {
+  "1": {
+   "file": "site/voice/es/res1.mp3",
+   "dur": 14.92,
+   "text": "Residencia 1. Residencia Royal, en una playa. La más grande: tres tejados en A en fila, dos suites en la planta alta. Una playa privada, con la amplia laguna delante. Elija una vista: desde el agua, desde arriba, desde la terraza o por dentro."
+  },
+  "2": {
+   "file": "site/voice/es/res2.mp3",
+   "dur": 14.03,
+   "text": "Residencia 2. Residencia Grand, en una playa. Dos suites sobre una planta baja larga y abierta. Su propia playa y muelle, y un arrecife justo enfrente. Elija una vista: desde el agua, desde arriba, desde la terraza o por dentro."
+  },
+  "3": {
+   "file": "site/voice/es/res3.mp3",
+   "dur": 14.52,
+   "text": "Residencia 3. Residencia Deluxe, sobre las rocas. Una suite y las terrazas más amplias de las tres. Construida sobre las rocas, con un muelle privado sobre el coral. Elija una vista: desde el agua, desde arriba, desde la terraza o por dentro."
+  },
+  "4": {
+   "file": "site/voice/es/res4.mp3",
+   "dur": 13.58,
+   "text": "Residencia 4. Residencia Deluxe, en el bosque. Una suite y las terrazas más amplias de las tres. Retirada en el bosque: la más reservada de las diez. Elija una vista: desde el agua, desde arriba, desde la terraza o por dentro."
+  },
+  "5": {
+   "file": "site/voice/es/res5.mp3",
+   "dur": 15.54,
+   "text": "Residencia 5. Residencia Royal, sobre las rocas. La más grande: tres tejados en A en fila, dos suites en la planta alta. Sobre las rocas del sur, con un muelle privado sobre el coral. Elija una vista: desde el agua, desde arriba, desde la terraza o por dentro."
+  },
+  "6": {
+   "file": "site/voice/es/res6.mp3",
+   "dur": 14.3,
+   "text": "Residencia 6. Residencia Deluxe, sobre las rocas. Una suite y las terrazas más amplias de las tres. Sobre las rocas del sur, con un muelle privado sobre el coral. Elija una vista: desde el agua, desde arriba, desde la terraza o por dentro."
+  },
+  "7": {
+   "file": "site/voice/es/res7.mp3",
+   "dur": 13.43,
+   "text": "Residencia 7. Residencia Deluxe, sobre las rocas. Una suite y las terrazas más amplias de las tres. Sobre las rocas del oeste, mirando al coral. Elija una vista: desde el agua, desde arriba, desde la terraza o por dentro."
+  },
+  "8": {
+   "file": "site/voice/es/res8.mp3",
+   "dur": 14.45,
+   "text": "Residencia 8. Residencia Grand, en una playa. Dos suites sobre una planta baja larga y abierta. Una playa privada en la costa oeste, con la laguna delante. Elija una vista: desde el agua, desde arriba, desde la terraza o por dentro."
+  },
+  "9": {
+   "file": "site/voice/es/res9.mp3",
+   "dur": 15.65,
+   "text": "Residencia 9. Residencia Royal, en una playa. La más grande: tres tejados en A en fila, dos suites en la planta alta. Una playa privada en la costa oeste, con la laguna delante. Elija una vista: desde el agua, desde arriba, desde la terraza o por dentro."
+  },
+  "10": {
+   "file": "site/voice/es/res10.mp3",
+   "dur": 14.49,
+   "text": "Residencia 10. Residencia Grand, en una playa. Dos suites sobre una planta baja larga y abierta. Una playa privada junto al clubhouse, con la laguna delante. Elija una vista: desde el agua, desde arriba, desde la terraza o por dentro."
+  }
+ }
+}

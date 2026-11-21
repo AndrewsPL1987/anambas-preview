@@ -1,0 +1,104 @@
+{
+ "lang": "fr",
+ "voice": "ff_siwis",
+ "engine": "kokoro",
+ "stops": {
+  "seaplane": {
+   "file": "site/voice/fr/seaplane.mp3",
+   "dur": 12.89,
+   "text": "Bienvenue dans les îles Anambas. Les dernières minutes sont le plus beau du voyage : à basse altitude au-dessus du récif, l'amerrissage sur le lagon, un court trajet jusqu'à la jetée. Vous descendez au pavillon d'arrivée."
+  },
+  "arrival": {
+   "file": "site/voice/fr/arrival.mp3",
+   "dur": 15.35,
+   "text": "Tenggeran et Tenak sont deux petites îles de l'archipel des Anambas, en mer de Chine méridionale. Des vols réguliers relient Batam, à côté de Singapour, à Letung, puis un bateau fait le dernier trajet. Des vols et des bateaux privés peuvent être organisés."
+  },
+  "islands": {
+   "file": "site/voice/fr/islands.mp3",
+   "dur": 13.96,
+   "text": "Le resort couvre les deux : six hectares de forêt, de roche claire et de sable corallien. Tenggeran accueille les dix résidences et le clubhouse. Tenak accueille les villas des hôtes et le bar de plage. Un bateau fait la navette toute la journée."
+  },
+  "residences": {
+   "file": "site/voice/fr/residences.mp3",
+   "dur": 12.79,
+   "text": "Trois Royal, trois Grand, quatre Deluxe. Chacune a sa piscine, son bain à remous et ses terrasses, et son propre bout de rivage : plage, rochers ou forêt. Choisissez un numéro sur l'île pour la voir de plus près."
+  },
+  "reef": {
+   "file": "site/voice/fr/reef.mp3",
+   "dur": 13.13,
+   "text": "Le lagon à l'est de Tenggeran est un jardin de corail, à quelques brasses de la plage. Plus loin se trouvent le récif de Kataoka, Malang Biru et le récif de Tokong, où passent les raies manta et les requins-baleines."
+  },
+  "day": {
+   "file": "site/voice/fr/day.mp3",
+   "dur": 16.73,
+   "text": "Une table raffinée au clubhouse, des boissons et des bouchées sur sa plage. Le petit-déjeuner et des soirées paisibles au bar de plage de Tenak. Un pavillon spa, du yoga au sommet de la colline, une école de plongée, un yacht à moteur et un concierge pour tout le reste."
+  },
+  "runs": {
+   "file": "site/voice/fr/runs.mp3",
+   "dur": 16.33,
+   "text": "Le resort est conçu pour être autonome : électricité solaire stockée en batteries ; eau douce produite à partir de l'eau de mer ; eaux de pluie et eaux grises collectées et réutilisées. Pas de plastique à usage unique. Un potager. Une équipe recrutée et formée dans les îles voisines."
+  },
+  "owning": {
+   "file": "site/voice/fr/owning.mp3",
+   "dur": 8.61,
+   "text": "Soixante jours par an sont à vous. Le reste de l'année, The Pavilions accueille des hôtes dans votre résidence, la gère et l'entretient."
+  },
+  "people": {
+   "file": "site/voice/fr/people.mp3",
+   "dur": 8.65,
+   "text": "Frontier Experiences trouve des terres isolées et belles, et les prépare avec soin. The Pavilions Hotels & Resorts gérera le resort."
+  }
+ },
+ "residences": {
+  "1": {
+   "file": "site/voice/fr/res1.mp3",
+   "dur": 14.37,
+   "text": "Résidence 1. Résidence Royal, sur une plage. La plus grande : trois toits en A alignés, deux suites à l'étage. Une plage privée, avec le grand lagon devant. Choisissez une vue : depuis l'eau, d'en haut, depuis la terrasse, ou à l'intérieur."
+  },
+  "2": {
+   "file": "site/voice/fr/res2.mp3",
+   "dur": 14.11,
+   "text": "Résidence 2. Résidence Grand, sur une plage. Deux suites au-dessus d'un long rez-de-chaussée ouvert. Sa propre plage et sa jetée, et un récif droit devant. Choisissez une vue : depuis l'eau, d'en haut, depuis la terrasse, ou à l'intérieur."
+  },
+  "3": {
+   "file": "site/voice/fr/res3.mp3",
+   "dur": 14.64,
+   "text": "Résidence 3. Résidence Deluxe, sur les rochers. Une suite et les terrasses les plus larges des trois. Construite sur les rochers, avec une jetée privée au-dessus du corail. Choisissez une vue : depuis l'eau, d'en haut, depuis la terrasse, ou à l'intérieur."
+  },
+  "4": {
+   "file": "site/voice/fr/res4.mp3",
+   "dur": 13.92,
+   "text": "Résidence 4. Résidence Deluxe, dans la forêt. Une suite et les terrasses les plus larges des trois. En retrait dans la forêt : la plus retirée des dix. Choisissez une vue : depuis l'eau, d'en haut, depuis la terrasse, ou à l'intérieur."
+  },
+  "5": {
+   "file": "site/voice/fr/res5.mp3",
+   "dur": 15.58,
+   "text": "Résidence 5. Résidence Royal, sur les rochers. La plus grande : trois toits en A alignés, deux suites à l'étage. Sur les rochers du sud, avec une jetée privée au-dessus du corail. Choisissez une vue : depuis l'eau, d'en haut, depuis la terrasse, ou à l'intérieur."
+  },
+  "6": {
+   "file": "site/voice/fr/res6.mp3",
+   "dur": 14.62,
+   "text": "Résidence 6. Résidence Deluxe, sur les rochers. Une suite et les terrasses les plus larges des trois. Sur les rochers du sud, avec une jetée privée au-dessus du corail. Choisissez une vue : depuis l'eau, d'en haut, depuis la terrasse, ou à l'intérieur."
+  },
+  "7": {
+   "file": "site/voice/fr/res7.mp3",
+   "dur": 13.32,
+   "text": "Résidence 7. Résidence Deluxe, sur les rochers. Une suite et les terrasses les plus larges des trois. Sur les rochers de l'ouest, face au corail. Choisissez une vue : depuis l'eau, d'en haut, depuis la terrasse, ou à l'intérieur."
+  },
+  "8": {
+   "file": "site/voice/fr/res8.mp3",
+   "dur": 13.94,
+   "text": "Résidence 8. Résidence Grand, sur une plage. Deux suites au-dessus d'un long rez-de-chaussée ouvert. Une plage privée sur la côte ouest, le lagon devant. Choisissez une vue : depuis l'eau, d'en haut, depuis la terrasse, ou à l'intérieur."
+  },
+  "9": {
+   "file": "site/voice/fr/res9.mp3",
+   "dur": 14.94,
+   "text": "Résidence 9. Résidence Royal, sur une plage. La plus grande : trois toits en A alignés, deux suites à l'étage. Une plage privée sur la côte ouest, le lagon devant. Choisissez une vue : depuis l'eau, d'en haut, depuis la terrasse, ou à l'intérieur."
+  },
+  "10": {
+   "file": "site/voice/fr/res10.mp3",
+   "dur": 13.96,
+   "text": "Résidence 10. Résidence Grand, sur une plage. Deux suites au-dessus d'un long rez-de-chaussée ouvert. Une plage privée à côté du clubhouse, le lagon devant. Choisissez une vue : depuis l'eau, d'en haut, depuis la terrasse, ou à l'intérieur."
+  }
+ }
+}

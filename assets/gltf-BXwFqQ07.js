@@ -1,0 +1,1 @@
+export{t as gltfLoader}from"./gltf-B70TjOSa.js";

@@ -1,0 +1,52 @@
+{
+ "island": "tenggeran",
+ "tag": "P1",
+ "crs": "EPSG:32648",
+ "E0": 646800.0,
+ "N0": 339400.0,
+ "water_level": 0.3,
+ "coarse": {
+  "e0": 645889,
+  "n0": 339584,
+  "cell": 2.0,
+  "nx": 703,
+  "ny": 734,
+  "file": "height_coarse.bin"
+ },
+ "deep_color": [
+  2,
+  94,
+  124
+ ],
+ "overview": {
+  "e0": 646369,
+  "n0": 339104,
+  "w": 3597,
+  "h": 4096,
+  "cell": 0.1240234375,
+  "file": "overview.webp"
+ },
+ "rockisles": {
+  "e0": 646369,
+  "n0": 339104,
+  "cell": 1.0,
+  "file": "rockisles.png"
+ },
+ "fine": {
+  "e0": 646469,
+  "n0": 339036,
+  "cell": 0.5,
+  "nx": 536,
+  "ny": 666,
+  "file": "height_fine.bin"
+ },
+ "detail": {
+  "e0": 646469,
+  "n0": 339036,
+  "w": 3297,
+  "h": 4096,
+  "cell": 0.081298828125,
+  "file": "detail.webp"
+ },
+ "land_cells_1m": 47456
+}

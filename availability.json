@@ -1,0 +1,15 @@
+{
+ "how": "One line per residence, by its number. Use the words available, reserved or sold. Save: the site shows the change the next time it is opened.",
+ "status": {
+  "1": "available",
+  "2": "available",
+  "3": "available",
+  "4": "available",
+  "5": "reserved",
+  "6": "reserved",
+  "7": "available",
+  "8": "available",
+  "9": "reserved",
+  "10": "available"
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "lang": "de",
+ "voice": "de_DE-thorsten-high",
+ "engine": "piper",
+ "stops": {
+  "seaplane": {
+   "file": "site/voice/de/seaplane.mp3",
+   "dur": 11.82,
+   "text": "Willkommen auf den Anambas-Inseln. Die letzten Minuten sind das Schönste an der Reise: tief über das Riff, hinunter auf die Lagune und ein kurzes Stück bis zum Steg. Sie steigen am Ankunftspavillon aus."
+  },
+  "arrival": {
+   "file": "site/voice/de/arrival.mp3",
+   "dur": 14.35,
+   "text": "Tenggeran und Tenak sind zwei kleine Inseln im Anambas-Archipel, draußen im Südchinesischen Meer. Linienflüge gehen von Batam, gleich neben Singapur, nach Letung; das letzte Stück fährt ein Boot. Private Flüge und Boote lassen sich arrangieren."
+  },
+  "islands": {
+   "file": "site/voice/de/islands.mp3",
+   "dur": 14.07,
+   "text": "Das Resort umfasst beide: sechs Hektar Wald, heller Fels und Korallensand. Auf Tenggeran liegen die zehn Residenzen und das Clubhaus. Auf Tenak liegen die Gästevillen und die Strandbar. Den ganzen Tag pendelt ein Boot zwischen ihnen."
+  },
+  "residences": {
+   "file": "site/voice/de/residences.mp3",
+   "dur": 13.12,
+   "text": "Drei Royal, drei Grand, vier Deluxe. Jede hat ihren eigenen Pool, Whirlpool und eigene Decks, und ihr eigenes Stück Küste: Strand, Fels oder Wald. Wählen Sie eine Nummer auf der Insel, um sie aus der Nähe zu sehen."
+  },
+  "reef": {
+   "file": "site/voice/de/reef.mp3",
+   "dur": 12.12,
+   "text": "Die Lagune östlich von Tenggeran ist ein Korallengarten, nur ein paar Schwimmzüge vom Strand. Weiter draußen liegen das Kataoka-Riff, Malang Biru und das Tokong-Riff, wo Mantas und Walhaie vorbeiziehen."
+  },
+  "day": {
+   "file": "site/voice/de/day.mp3",
+   "dur": 13.55,
+   "text": "Feine Küche im Clubhaus, Drinks und Fingerfood an seinem Strand. Frühstück und ruhige Abende an der Strandbar auf Tenak. Ein Spa-Pavillon, Yoga auf dem Hügel, eine Tauchschule, eine Motoryacht und ein Concierge für alles andere."
+  },
+  "runs": {
+   "file": "site/voice/de/runs.mp3",
+   "dur": 15.7,
+   "text": "Das Resort ist darauf ausgelegt, für sich selbst zu stehen: Strom aus der Sonne, in Batterien gespeichert; Süßwasser aus dem Meer; Regen- und Grauwasser gesammelt und wiederverwendet. Kein Einwegplastik. Ein Küchengarten. Ein Team, eingestellt und ausgebildet auf den Nachbarinseln."
+  },
+  "owning": {
+   "file": "site/voice/de/owning.mp3",
+   "dur": 7.67,
+   "text": "Sechzig Tage im Jahr gehören Ihnen. Den Rest des Jahres empfängt The Pavilions Gäste in Ihrer Residenz, führt und pflegt sie."
+  },
+  "people": {
+   "file": "site/voice/de/people.mp3",
+   "dur": 9.2,
+   "text": "Frontier Experiences findet abgelegenes, schönes Land und bereitet es sorgfältig vor. The Pavilions Hotels & Resorts wird das Resort führen."
+  }
+ },
+ "residences": {
+  "1": {
+   "file": "site/voice/de/res1.mp3",
+   "dur": 15.14,
+   "text": "Residenz 1. Royal-Residenz, am Strand. Die größte: drei A-Giebel in einer Reihe, zwei Schlafsuiten im Obergeschoss. Ein privater Strand, die weite Lagune davor. Wählen Sie eine Ansicht: vom Wasser, von oben, von der Terrasse oder von innen."
+  },
+  "2": {
+   "file": "site/voice/de/res2.mp3",
+   "dur": 13.62,
+   "text": "Residenz 2. Grand-Residenz, am Strand. Zwei Schlafsuiten über einem langen, offenen Erdgeschoss. Ein eigener Strand, und ein Riff direkt voraus. Wählen Sie eine Ansicht: vom Wasser, von oben, von der Terrasse oder von innen."
+  },
+  "3": {
+   "file": "site/voice/de/res3.mp3",
+   "dur": 14.06,
+   "text": "Residenz 3. Deluxe-Residenz, auf den Felsen. Eine Schlafsuite und die breitesten Decks der drei. Auf den Felsen gebaut, mit privatem Steg über Korallen. Wählen Sie eine Ansicht: vom Wasser, von oben, von der Terrasse oder von innen."
+  },
+  "4": {
+   "file": "site/voice/de/res4.mp3",
+   "dur": 12.84,
+   "text": "Residenz 4. Deluxe-Residenz, im Wald. Eine Schlafsuite und die breitesten Decks der drei. Zurückgesetzt im Wald: die abgeschiedenste der zehn. Wählen Sie eine Ansicht: vom Wasser, von oben, von der Terrasse oder von innen."
+  },
+  "5": {
+   "file": "site/voice/de/res5.mp3",
+   "dur": 15.78,
+   "text": "Residenz 5. Royal-Residenz, auf den Felsen. Die größte: drei A-Giebel in einer Reihe, zwei Schlafsuiten im Obergeschoss. Auf den Südfelsen, mit privatem Steg über Korallen. Wählen Sie eine Ansicht: vom Wasser, von oben, von der Terrasse oder von innen."
+  },
+  "6": {
+   "file": "site/voice/de/res6.mp3",
+   "dur": 13.67,
+   "text": "Residenz 6. Deluxe-Residenz, auf den Felsen. Eine Schlafsuite und die breitesten Decks der drei. Auf den Südfelsen, mit privatem Steg über Korallen. Wählen Sie eine Ansicht: vom Wasser, von oben, von der Terrasse oder von innen."
+  },
+  "7": {
+   "file": "site/voice/de/res7.mp3",
+   "dur": 12.91,
+   "text": "Residenz 7. Deluxe-Residenz, auf den Felsen. Eine Schlafsuite und die breitesten Decks der drei. Auf den Westfelsen, mit Blick über die Korallen. Wählen Sie eine Ansicht: vom Wasser, von oben, von der Terrasse oder von innen."
+  },
+  "8": {
+   "file": "site/voice/de/res8.mp3",
+   "dur": 14.06,
+   "text": "Residenz 8. Grand-Residenz, am Strand. Zwei Schlafsuiten über einem langen, offenen Erdgeschoss. Ein privater Strand an der Westküste, die Lagune davor. Wählen Sie eine Ansicht: vom Wasser, von oben, von der Terrasse oder von innen."
+  },
+  "9": {
+   "file": "site/voice/de/res9.mp3",
+   "dur": 15.49,
+   "text": "Residenz 9. Royal-Residenz, am Strand. Die größte: drei A-Giebel in einer Reihe, zwei Schlafsuiten im Obergeschoss. Ein privater Strand an der Westküste, die Lagune davor. Wählen Sie eine Ansicht: vom Wasser, von oben, von der Terrasse oder von innen."
+  },
+  "10": {
+   "file": "site/voice/de/res10.mp3",
+   "dur": 14.12,
+   "text": "Residenz 10. Grand-Residenz, am Strand. Zwei Schlafsuiten über einem langen, offenen Erdgeschoss. Ein privater Strand neben dem Clubhaus, die Lagune davor. Wählen Sie eine Ansicht: vom Wasser, von oben, von der Terrasse oder von innen."
+  }
+ }
+}
